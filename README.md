@@ -1,4 +1,4 @@
-# EarnShield AI 🚀
+# EarnShield 🚀
 
 ### Intelligent Income Protection for Delivery Workers
 
