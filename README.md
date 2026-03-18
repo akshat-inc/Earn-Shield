@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-EarnShield is a parametric insurance platform designed specifically for gig economy delivery workers (Zepto, Blinkit, Swiggy, Zomato).
+EarnShield is a parametric insurance platform designed specifically for gig economy delivery workers (Zepto, Blinkit).
 
 It protects workers from **income loss caused by external environmental conditions** such as heavy rainfall, extreme temperatures, and poor air quality.
 
