@@ -6,12 +6,13 @@
 
 ## 📌 Overview
 
-EarnShield is a parametric insurance platform designed specifically for gig economy grocery delivery workers (Zepto, Blinkit).
+EarnShield is an insurance platform designed for gig economy grocery delivery workers (Zepto, Blinkit, etc.).
 
-It protects workers from **income loss caused by external environmental conditions** such as heavy rainfall, extreme temperatures, and poor air quality.
+It provides financial protection against **income loss caused by external environmental and operational disruptions** such as heavy rainfall, extreme temperatures, poor air quality ,store closure due to  strikes and app downtime
 
-Unlike traditional insurance, EarnShield uses **automated triggers and AI-driven risk assessment** to provide **instant, transparent payouts**.
+Unlike traditional insurance, EarnShield leverages **automated parametric triggers and AI-driven risk assessment** to deliver **instant, transparent, and hassle-free payouts** — with no manual claims process.
 
+💡 Our goal is to ensure that gig workers never lose their livelihood due to factors beyond their control.
 ---
 
 ## ❗ Problem Statement
