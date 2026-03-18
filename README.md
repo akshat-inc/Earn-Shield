@@ -20,10 +20,15 @@ Unlike traditional insurance, EarnShield leverages **automated parametric trigge
 Delivery workers rely entirely on daily orders for their income. However, multiple external factors beyond their control significantly impact their earnings:
 
 🌧️ Heavy rain reduces order demand and causes waterlogging
+<br>
 🌡️ Extreme heat reduces working efficiency and working hours
+<br>
 🌫️ Poor AQI discourages outdoor activity and affects health
+<br>
 🏪 Store closures or strikes halt operations completely
+<br>
 🚦 Traffic congestion increases delivery time and reduces order completion
+<br>
 📱 Platform or app downtime stops orders entirely
 
 **Impact:**
