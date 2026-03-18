@@ -15,23 +15,25 @@ Unlike traditional insurance, EarnShield leverages **automated parametric trigge
 💡 Our goal is to ensure that gig workers never lose their livelihood due to factors beyond their control.
 ---
 
-## ❗ Problem Statement
+❗ **Problem Statement**
 
-Delivery workers rely entirely on daily orders for income. However, external factors beyond their control significantly impact their earnings:
+Delivery workers rely entirely on daily orders for their income. However, multiple external factors beyond their control significantly impact their earnings:
 
-* 🌧️ Heavy rain reduces order demand
-* 🌡️ Extreme heat reduces working efficiency
-* 🌫️ Poor AQI discourages outdoor activity
+🌧️ Heavy rain reduces order demand and causes waterlogging
+🌡️ Extreme heat reduces working efficiency and working hours
+🌫️ Poor AQI discourages outdoor activity and affects health
+🏪 Store closures or strikes halt operations completely
+🚦 Traffic congestion increases delivery time and reduces order completion
+📱 Platform or app downtime stops orders entirely
 
-### Impact:
+**Impact:**
 
 * Reduced number of deliveries
 * Lower daily earnings
-* No compensation mechanism
+* Increased idle time
+* No financial safety net
 
-👉 **There is currently no system that protects delivery workers from income volatility.**
-
----
+👉 There is currently **no system that protects gig workers from income volatility caused by environmental and operational disruptions.**
 
 ## 👤 Target Persona
 
