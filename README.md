@@ -10,7 +10,7 @@ EarnShield is a parametric insurance platform designed specifically for gig econ
 
 It protects workers from **income loss caused by external environmental conditions** such as heavy rainfall, extreme temperatures, and poor air quality.
 
-Unlike traditional insurance, EarnShield AI uses **automated triggers and AI-driven risk assessment** to provide **instant, transparent payouts**.
+Unlike traditional insurance, EarnShield uses **automated triggers and AI-driven risk assessment** to provide **instant, transparent payouts**.
 
 ---
 
