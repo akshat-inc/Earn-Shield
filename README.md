@@ -63,7 +63,7 @@ Delivery workers rely entirely on daily orders for their income. However, multip
 * Weather unpredictability
 * No fixed salary
 * Income instability
-
+* operational disruptions
 ---
 
 ## 💡 Proposed Solution
