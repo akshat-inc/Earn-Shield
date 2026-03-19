@@ -146,7 +146,7 @@ This system covers **income loss only**, not:
 <h3><u>Market Crash Scenario</u></h3><br>
 500 fake delivery partners. GPS spoofing. Coordinated fraud draining payouts.
 
-Our system is designed to detect, isolate, and neutralize such attacks — while protecting genuine workers.
+Our system is designed to detect, isolate, and neutralize such attacks while protecting genuine workers.<br>
 🎯 Objective<br>
 Detect fraud rings and spoofed identities<br>
 Prevent mass payout exploitation<br>
