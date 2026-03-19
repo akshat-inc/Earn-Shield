@@ -302,13 +302,13 @@ note : This is the current outline of tech stack. We might add or adjust technol
 ## 🌱 Future Scope
 
 * Integration with delivery platforms (API-level)
-*Personalized insurance plans
+* Personalized insurance plans
 
-*Real-time earning dashboards
+* Real-time earning dashboards
 
-*Multi-city scaling
+* Multi-city scaling
 
-*Integration with government schemes
+* Integration with government schemes
 
 ## 🎯 Conclusion
 
