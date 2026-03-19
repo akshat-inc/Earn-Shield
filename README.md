@@ -248,4 +248,23 @@ To ensure fairness and prevent misuse, the system includes:
 
 ## 🌱 Future Scope
 
-* Integration with d
+* Integration with delivery platforms (API-level)
+*Personalized insurance plans
+
+*Real-time earning dashboards
+
+*Multi-city scaling
+
+*Integration with government schemes
+
+🎯 Conclusion
+
+EarnShield AI empowers delivery workers by providing financial stability and protection against unpredictable environmental risks.
+
+It bridges the gap between gig work and financial security through technology, automation, and intelligent risk management.
+
+👨‍💻 Team
+
+Built for DEVTrails 2026 Phase 1
+
+Focus: Innovation, Impact, and Scalability
