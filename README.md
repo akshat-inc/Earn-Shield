@@ -134,7 +134,7 @@ This system covers **income loss only**, not:
 
 ## 🤖 AI/ML Integration
 
-### 1. Intelligent Premium Calculation
+###  Intelligent Premium Calculation
 
 * Uses predictive models to estimate future risk
 * Continuously learns from historical patterns
@@ -220,7 +220,7 @@ Each claim is evaluated on:<br>
 
 ---
 
-### 3. Predictive Risk Engine
+###  Predictive Risk Engine
 
 * Forecasts high-risk days in advance
 * Sends alerts to users
