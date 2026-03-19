@@ -142,9 +142,8 @@ This system covers **income loss only**, not:
 
 ---
 
-<u>##### ⚠️ Fraud Detection Adversarial Defense & Anti-Spoofing Strategy</u>
-<br>
-<u>### Market Crash Scenario</u>
+<h5><u>⚠️ Fraud Detection Adversarial Defense & Anti-Spoofing Strategy</u></h5><br>
+<h3><u>Market Crash Scenario</u></h3><br>
 500 fake delivery partners. GPS spoofing. Coordinated fraud draining payouts.
 
 Our system is designed to detect, isolate, and neutralize such attacks — while protecting genuine workers.
