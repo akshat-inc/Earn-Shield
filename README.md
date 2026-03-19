@@ -263,8 +263,8 @@ Each claim is evaluated on:<br>
 
 * Weather API (real-time data)
 * Location/GPS services
-
 note : This is the current outline of tech stack. We might add or adjust technologies as the project progresses.<br>
+
 ---
 
 ## 📱 Platform Choice
