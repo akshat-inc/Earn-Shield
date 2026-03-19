@@ -144,13 +144,15 @@ This system covers **income loss only**, not:
 
  ## <u> ⚠️ Fraud Detection Adversarial Defense & Anti-Spoofing Strategy</u><br>
 <h3><u>Market Crash Scenario</u></h3><br>
-500 fake delivery partners. GPS spoofing. Coordinated fraud draining payouts.
+500 fake delivery partners. GPS spoofing. Coordinated fraud draining payouts.<br>
 
 Our system is designed to detect, isolate, and neutralize such attacks while protecting genuine workers.<br>
+
 🎯 Objective<br>
-Detect fraud rings and spoofed identities<br>
-Prevent mass payout exploitation<br>
-Ensure fair payouts to legitimate workers<br>
+- Detect fraud rings and spoofed identities<br>
+- Prevent mass payout exploitation<br>
+- Ensure fair payouts to legitimate workers<br>
+
 🧠 Defense Architecture (Multi-Layered)<br>
 
 📍 1. Location Intelligence<br>
