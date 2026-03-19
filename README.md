@@ -310,13 +310,13 @@ note : This is the current outline of tech stack. We might add or adjust technol
 
 *Integration with government schemes
 
-🎯 Conclusion
+## 🎯 Conclusion
 
 EarnShield AI empowers delivery workers by providing financial stability and protection against unpredictable environmental risks.
 
 It bridges the gap between gig work and financial security through technology, automation, and intelligent risk management.
 
-👨‍💻 Team
+## 👨‍💻 Team
 
 Built for DEVTrails 2026 Phase 1
 
