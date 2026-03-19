@@ -318,6 +318,6 @@ It bridges the gap between gig work and financial security through technology, a
 
 ## 👨‍💻 Team
 
-Built for DEVTrails 2026 Phase 1
-
+Built for DEVTrails 2026 Phase 1<br>
+By Team ATLAS<br>
 Focus: Innovation, Impact, and Scalability
