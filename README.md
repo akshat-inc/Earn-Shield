@@ -143,64 +143,74 @@ This system covers **income loss only**, not:
 ---
 
 ### 2. Fraud Detection Adversarial Defense & Anti-Spoofing Strategy
-Market Crash Scenario
+### Market Crash Scenario
 500 fake delivery partners. GPS spoofing. Coordinated fraud draining payouts.
 
 Our system is designed to detect, isolate, and neutralize such attacks — while protecting genuine workers.
-🎯 Objective
-Detect fraud rings and spoofed identities
-Prevent mass payout exploitation
-Ensure fair payouts to legitimate workers
-🧠 Defense Architecture (Multi-Layered)
-📍 1. Location Intelligence
-Cross-verify GPS + IP + historical work zones
-Detect impossible movement patterns (instant city jumps)
-Apply geofencing to restrict valid claim zones
-📊 2. Activity Validation
-Verify real work signals:
-Deliveries completed
-Login duration
-Order interactions
-Reject claims with no or inconsistent activity
-🔗 3. Fraud Ring Detection
-Identify coordinated patterns:
-Multiple users claiming at the same time
-Same or nearby spoofed locations
-Detect clustered claim spikes in a region
-Flag shared device or synchronized behavior
-⚠️ 4. Anomaly Detection
-Monitor:
-Sudden surge in claims
-High-frequency claim behavior
-New users joining during disruptions
-Assign risk/anomaly scores to each claim
-🧮 5. Confidence Scoring Engine
-Each claim is evaluated on:
-Location consistency
-Activity authenticity
-Behavioral history
-Device trust
-✅ High score → Auto-approved
+🎯 Objective<br>
+Detect fraud rings and spoofed identities<br>
+Prevent mass payout exploitation<br>
+Ensure fair payouts to legitimate workers<br>
+🧠 Defense Architecture (Multi-Layered)<br>
 
-⚠️ Medium score → Partial payout / review
+📍 1. Location Intelligence<br>
+- Cross-verify GPS + IP + historical work zones<br>
+- Detect impossible movement patterns (instant city jumps)<br>
+- Apply geofencing to restrict valid claim zones<br>
 
-❌ Low score → Rejected
-🛑 6. Real-Time Risk Controls
-Apply zone-based payout limits
-Delay or review claims in high-risk clusters
-Cap number of payouts per region/time window
-⚖️ Fairness Mechanism
-No blanket rejection of entire areas
-Partial payouts for uncertain but possible genuine cases
-Prioritize users with consistent work history
-🏆 Strategy Summary
-Move beyond GPS → use multi-signal validation
-Detect fraud using behavior + patterns + clusters
-Balance security with fairness
-💡 Key Insight
-“In a market crash, trust is built on behavioral consistency — not a single data point.”
+📊 2. Activity Validation<br>
+- Verify real work signals:<br>
+- Deliveries completed<br>
+- Login duration<br>
+- Order interactions<br>
+
+Reject claims with no or inconsistent activity<br>
+
+🔗 3. Fraud Ring Detection<br>
+Identify coordinated patterns:<br>
+- Multiple users claiming at the same time<br>
+- Same or nearby spoofed locations<br>
+- Detect clustered claim spikes in a region<br>
+- Flag shared device or synchronized behavior<br>
+
+⚠️ 4. Anomaly Detection<br>
+Monitor:<br>
+- Sudden surge in claims<br>
+- High-frequency claim behavior<br>
+- New users joining during disruptions<br>
+- Assign risk/anomaly scores to each claim<br>
+
+🧮 5. Confidence Scoring Engine<br>
+Each claim is evaluated on:<br>
+- Location consistency<br>
+- Activity authenticity<br>
+- Behavioral history<br>
+- Device trust<br>
+✅ High score → Auto-approved<br>
+
+⚠️ Medium score → Partial payout / review<br>
+
+❌ Low score → Rejected<br>
+
+🛑 6. Real-Time Risk Controls<br>
+- Apply zone-based payout limits<br>
+- Delay or review claims in high-risk clusters<br>
+- Cap number of payouts per region/time window<br>
+
+⚖️ Fairness Mechanism<br>
+- No blanket rejection of entire areas<br>
+- Partial payouts for uncertain but possible genuine cases<br>
+- Prioritize users with consistent work history<br>
+
+🏆 Strategy Summary<br>
+- Move beyond GPS → use multi-signal validation<br>
+- Detect fraud using behavior + patterns + clusters<br>
+- Balance security with fairness<br>
+
+💡 Key Insight<br>
+“In a market crash, trust is built on behavioral consistency — not a single data point.”<br>
  
-#### 🚨 Example Fraud Scenario:
+#### 🚨 Example Fraud Scenario:<br>
 
 * User claims rain payout
 * System checks:
