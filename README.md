@@ -178,7 +178,7 @@ To ensure fairness and prevent misuse, the system includes:
 
 ---
 
-## 🏗️ System Architecture (High-Level)
+## 🏗️ System Architecture 
 
 1. User subscribes to weekly plan
 2. Backend fetches real-time weather data
