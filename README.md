@@ -40,34 +40,7 @@ Delivery workers rely entirely on daily orders for their income. However, multip
 
 👉 There is currently **no system that protects gig workers from income volatility caused by environmental and operational disruptions.**
 
-## 👤 Target Persona
-
-### Platform:
-
-* Zepto / Blinkit (Quick commerce delivery)
-
-### User:
-
-* Delivery Partner (Gig Worker)
-
-### Daily Workflow:
-
-1. Logs into delivery app
-2. Accepts orders
-3. Picks up items
-4. Delivers to customers
-5. Earns per completed delivery
-
-### Key Challenges:
-
-* Weather unpredictability
-* No fixed salary
-* Income instability
-* operational disruptions
----
-
-## 💡 Proposed Solution
-
+## Persona-Based Scenarios
 EarnShield AI introduces a **parametric micro-insurance model** where:
 
 * Workers pay a **small weekly premium**
@@ -77,6 +50,135 @@ EarnShield AI introduces a **parametric micro-insurance model** where:
 ✅ No claim filing required
 ✅ No manual verification delays
 ✅ Transparent and instant support
+👨‍🦱 Persona: Ramesh (Delivery Partner)
+🌧️ Scenario 1: A Rainy Day Gone Wrong
+
+Ramesh starts his day like any other, logging into Blinkit to begin deliveries.
+Before heading out, he checks EarnShield and notices a high-risk alert for heavy rainfall.
+
+He quickly subscribes to the ₹60 weekly plan and starts working.
+
+By afternoon, the rain gets worse — streets are flooded, and orders slow down. Eventually, he’s forced to stop working because it’s just not safe or practical anymore.
+
+Behind the scenes, EarnShield is already tracking things:
+
+Rainfall has crossed the danger threshold
+
+Ramesh is in the affected area
+
+His deliveries have dropped sharply
+
+Within moments, the system processes everything.
+
+👉 Ramesh receives a ₹200 payout directly in his account.
+
+He didn’t have to report anything or fill out any form — it just happened.
+
+🌡️ Scenario 2: Too Hot to Work
+
+On a scorching summer day, Ramesh logs in and sees a high temperature warning on EarnShield.
+
+He subscribes to the weekly plan, knowing it might be a tough day.
+
+By midday, the heat becomes unbearable. He starts feeling exhausted and decides to cut his shift short.
+
+EarnShield picks up on:
+
+Temperature crossing 45°C
+
+Reduced working time
+
+His location matching the heat-affected zone
+
+👉 A ₹150 payout is triggered automatically.
+
+Even though he worked less, Ramesh doesn’t lose his entire day’s income.
+
+🌫️ Scenario 3: Breathing Becomes Difficult
+
+One morning, Ramesh notices the air feels unusually heavy.
+He checks EarnShield — AQI levels are marked hazardous.
+
+He still starts working but avoids staying outside too long.
+
+As the day progresses, pollution levels cross critical limits, and he completes fewer deliveries than usual.
+
+EarnShield quietly verifies:
+
+AQI has crossed 300
+
+Ramesh is operating in that zone
+
+His activity has dropped
+
+👉 A ₹180 payout is credited automatically.
+
+No claim. No stress. Just support when he needs it.
+
+🏪 Scenario 4: Store is Closed
+
+Ramesh logs in, ready to work — but something’s off.
+The store he usually picks orders from is closed due to a strike.
+
+He waits, refreshes the app, but no orders come in.
+
+EarnShield detects the situation:
+
+No orders in that location
+
+Store inactivity
+
+Ramesh is active but idle
+
+👉 The system automatically sends him a compensation payout.
+
+Even though he couldn’t work, he doesn’t go home empty-handed.
+
+📱 Scenario 5: App Stops Working
+
+Ramesh logs in for his shift, but the Blinkit app keeps crashing.
+He tries restarting, checking internet — nothing works.
+
+Meanwhile, EarnShield recognizes:
+
+Platform outage across the region
+
+No orders being assigned
+
+Ramesh is online but unable to work
+
+👉 A payout is triggered automatically.
+
+No need to complain or report — the system already knows.
+
+🚦 Scenario 6: Stuck in Traffic
+
+During an evening shift, Ramesh gets stuck in heavy traffic.
+Deliveries take much longer, and he ends up completing far fewer orders.
+
+EarnShield notices:
+
+Traffic congestion spike
+
+Increased delivery times
+
+Drop in completed orders
+
+👉 A partial payout is triggered to balance the loss.
+
+🎯 The Bigger Picture
+
+For Ramesh, it’s simple:
+
+He works as usual
+
+Life throws problems (rain, heat, outages…)
+
+EarnShield quietly monitors everything
+
+💰 And pays him automatically when things go wrong
+
+No forms. No claims. No hassle.
 
 ---
 
