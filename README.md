@@ -189,11 +189,15 @@ Payouts are automatically triggered when environmental thresholds are exceeded.
 
 ### Trigger Conditions:
 
-| Condition         | Threshold   | Payout |
-| ----------------- | ----------- | ------ |
-| Rainfall          | > 50 mm/day | ₹200   |
-| Temperature       | > 45°C      | ₹150   |
-| Air Quality Index | > 300       | ₹180   |
+## ⚡ Parametric Trigger System
+
+| Condition              | Threshold                     | Payout |
+|----------------------|-------------------------------|--------|
+| 🌧️ Rainfall          | > 50 mm/day                   | ₹200   |
+| 🔥 Temperature       | > 45°C                        | ₹150   |
+| 🌫️ Air Quality Index | > 300                         | ₹180   |
+| 🏪 Store Closure     | > 70% stores closed in area   | ₹180   |
+| 📱 App Downtime      | > 1 hour platform downtime    | ₹100   |
 
 ### Key Characteristics:
 
