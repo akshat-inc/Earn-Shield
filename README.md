@@ -244,12 +244,12 @@ Our system is designed to detect, isolate, and neutralize such attacks while pro
 
 🧠 Defense Architecture (Multi-Layered)<br>
 
-📍 1. Location Intelligence<br>
+ 1. Location Intelligence<br>
 - Cross-verify GPS + IP + historical work zones<br>
 - Detect impossible movement patterns (instant city jumps)<br>
 - Apply geofencing to restrict valid claim zones<br>
 
-📊 2. Activity Validation<br>
+ 2. Activity Validation<br>
 - Verify real work signals:<br>
 - Deliveries completed<br>
 - Login duration<br>
@@ -257,21 +257,21 @@ Our system is designed to detect, isolate, and neutralize such attacks while pro
 
 Reject claims with no or inconsistent activity<br>
 
-🔗 3. Fraud Ring Detection<br>
+ 3. Fraud Ring Detection<br>
 Identify coordinated patterns:<br>
 - Multiple users claiming at the same time<br>
 - Same or nearby spoofed locations<br>
 - Detect clustered claim spikes in a region<br>
 - Flag shared device or synchronized behavior<br>
 
-⚠️ 4. Anomaly Detection<br>
+ 4. Anomaly Detection<br>
 Monitor:<br>
 - Sudden surge in claims<br>
 - High-frequency claim behavior<br>
 - New users joining during disruptions<br>
 - Assign risk/anomaly scores to each claim<br>
 
-🧮 5. Confidence Scoring Engine<br>
+ 5. Confidence Scoring Engine<br>
 Each claim is evaluated on:<br>
 - Location consistency<br>
 - Activity authenticity<br>
@@ -283,7 +283,7 @@ Each claim is evaluated on:<br>
 
 ❌ Low score → Rejected<br>
 
-🛑 6. Real-Time Risk Controls<br>
+ 6. Real-Time Risk Controls<br>
 - Apply zone-based payout limits<br>
 - Delay or review claims in high-risk clusters<br>
 - Cap number of payouts per region/time window<br>
