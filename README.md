@@ -318,27 +318,49 @@ Each claim is evaluated on:<br>
 
 ## 🛠️ Tech Stack
 
-### Frontend:
+### 🎨 Frontend
+- React.js (Web Application)
+- React Native / Flutter (Future Mobile App)
+- Bootstrap / Tailwind CSS (UI Styling)
 
-* React.js / Flutter (Mobile-first design)
+### ⚙️ Backend
+- Node.js (Event-driven architecture)
+- Express.js (REST APIs)
 
-### Backend:
+### 🗄️ Database
+- MongoDB (Primary NoSQL database)
+- Mongoose (Schema modeling & data validation for MongoDB)
 
-* Node.js (Event-driven architecture)
-
-### Database:
-
-* MongoDB
-
-### AI/ML:
-
-* Python (Risk prediction & fraud detection)
+### 🤖 AI / ML
+- Python
+- scikit-learn (Risk prediction & fraud detection)
+- TensorFlow / PyTorch (Future advanced models)
+- Pandas & NumPy (Data processing)
 
 ### APIs:
 
 * Weather API (real-time data)
 * Location/GPS services<br>
 note : This is the current outline of tech stack. We might add or adjust technologies as the project progresses.<br>
+
+### 🔐 Security & Fraud Detection
+- Multi-signal verification (GPS + IP + Device data)
+- JWT Authentication
+
+### ☁️ Deployment & Infrastructure
+- Frontend: Vercel / Netlify
+- Backend: Render / Railway / AWS
+- Cloud Storage: AWS S3 / Firebase Storage
+- Docker (Containerization)
+- CI/CD Pipelines (GitHub Actions)
+
+### 🧰 Tools & Development
+- Git & GitHub (Version control)
+- VS Code (Development)
+- Postman (API testing)
+- Figma (UI/UX Design)
+
+> ⚠️ Note: Core features in Phase 1 are implemented using a minimal stack, while additional technologies are planned for scalability, real-time processing, and production deployment.
 
 ---
 
