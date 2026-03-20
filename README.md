@@ -123,13 +123,6 @@ Payouts are automatically triggered when environmental thresholds are exceeded.
 * No human intervention
 * Instant disbursement
 
-⚠️ **Important:**
-This system covers **income loss only**, not:
-
-* Health insurance
-* Accidents
-* Vehicle damage
-
 ---
 
 ## 🤖 AI/ML Integration
