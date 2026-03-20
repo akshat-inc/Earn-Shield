@@ -40,44 +40,33 @@ Delivery workers rely entirely on daily orders for their income. However, multip
 
 👉 There is currently **no system that protects gig workers from income volatility caused by environmental and operational disruptions.**
 
-## Persona-Based Scenarios
+## 👤Persona-Based Scenarios
 EarnShield AI introduces a **parametric micro-insurance model** where:
 
 * Workers pay a **small weekly premium**
 * The system continuously monitors environmental data
 * When predefined conditions are met, **automatic payouts are triggered**
 
-✅ No claim filing required
-✅ No manual verification delays
-✅ Transparent and instant support
-👨‍🦱 Persona: Ramesh (Delivery Partner)
-🌧️ Scenario 1: A Rainy Day Gone Wrong
+✅ No claim filing required <br>
+✅ No manual verification delays <br>
+✅ Transparent and instant support <br>
+👨‍🦱 Persona: Ramesh (Delivery Partner) <br>
+### 🌧️ Scenario 1: A Rainy Day Gone Wrong
 
-Ramesh starts his day like any other, logging into Blinkit to begin deliveries.
-Before heading out, he checks EarnShield and notices a high-risk alert for heavy rainfall.
+Ramesh starts his day like any other, logging into Blinkit to begin deliveries. <br>
+Before heading out, he checks EarnShield and notices a high-risk alert for heavy rainfall. <br>
+He quickly subscribes to the ₹60 weekly plan and starts working. <br>
+By afternoon, the rain gets worse — streets are flooded, and orders slow down. Eventually, he’s forced to stop working because it’s just not safe or practical anymore. <br>
+Behind the scenes, EarnShield is already tracking things: <br>
+Rainfall has crossed the danger threshold. Ramesh is in the affected area. His deliveries have dropped sharply. <br>
+Within moments, the system processes everything.  
 
-He quickly subscribes to the ₹60 weekly plan and starts working.
+👉 Ramesh receives a ₹200 payout directly in his account. <br>
+He didn’t have to report anything or fill out any form — it just happened. <br>
 
-By afternoon, the rain gets worse — streets are flooded, and orders slow down. Eventually, he’s forced to stop working because it’s just not safe or practical anymore.
+### 🌡️ Scenario 2: Too Hot to Work
 
-Behind the scenes, EarnShield is already tracking things:
-
-Rainfall has crossed the danger threshold
-
-Ramesh is in the affected area
-
-His deliveries have dropped sharply
-
-Within moments, the system processes everything.
-
-👉 Ramesh receives a ₹200 payout directly in his account.
-
-He didn’t have to report anything or fill out any form — it just happened.
-
-🌡️ Scenario 2: Too Hot to Work
-
-On a scorching summer day, Ramesh logs in and sees a high temperature warning on EarnShield.
-
+On a scorching summer day, Ramesh logs in and sees a high temperature warning on EarnShield. <br>
 He subscribes to the weekly plan, knowing it might be a tough day.
 
 By midday, the heat becomes unbearable. He starts feeling exhausted and decides to cut his shift short.
@@ -94,7 +83,7 @@ His location matching the heat-affected zone
 
 Even though he worked less, Ramesh doesn’t lose his entire day’s income.
 
-🌫️ Scenario 3: Breathing Becomes Difficult
+### 🌫️ Scenario 3: Breathing Becomes Difficult
 
 One morning, Ramesh notices the air feels unusually heavy.
 He checks EarnShield — AQI levels are marked hazardous.
@@ -115,7 +104,7 @@ His activity has dropped
 
 No claim. No stress. Just support when he needs it.
 
-🏪 Scenario 4: Store is Closed
+### 🏪 Scenario 4: Store is Closed
 
 Ramesh logs in, ready to work — but something’s off.
 The store he usually picks orders from is closed due to a strike.
@@ -134,7 +123,7 @@ Ramesh is active but idle
 
 Even though he couldn’t work, he doesn’t go home empty-handed.
 
-📱 Scenario 5: App Stops Working
+### 📱 Scenario 5: App Stops Working
 
 Ramesh logs in for his shift, but the Blinkit app keeps crashing.
 He tries restarting, checking internet — nothing works.
@@ -151,7 +140,7 @@ Ramesh is online but unable to work
 
 No need to complain or report — the system already knows.
 
-🚦 Scenario 6: Stuck in Traffic
+### 🚦 Scenario 6: Stuck in Traffic
 
 During an evening shift, Ramesh gets stuck in heavy traffic.
 Deliveries take much longer, and he ends up completing far fewer orders.
@@ -385,12 +374,12 @@ note : This is the current outline of tech stack. We might add or adjust technol
 
 ## 🚀 Key Features Summary
 
-* ✅ Parametric insurance model
-* ✅ AI-driven premium calculation
-* ✅ Automated payouts
-* ✅ Real-time weather integration
-* ✅ Advanced fraud detection
-* ✅ Mobile-first accessibility
+*  Parametric insurance model
+*  AI-driven premium calculation
+*  Automated payouts
+*  Real-time weather integration
+*  Advanced fraud detection
+*  Mobile-first accessibility
 
 ---
 
