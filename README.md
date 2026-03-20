@@ -53,11 +53,16 @@ EarnShield AI introduces a **parametric micro-insurance model** where:
 👨‍🦱 Persona: Ramesh (Delivery Partner) <br>
 ### 🌧️ Scenario 1: A Rainy Day Gone Wrong
 
-Ramesh starts his day like any other, logging into Blinkit to begin deliveries. <br>
-Before heading out, he checks EarnShield and notices a high-risk alert for heavy rainfall. <br>
-He quickly subscribes to the ₹60 weekly plan and starts working. <br>
-By afternoon, the rain gets worse — streets are flooded, and orders slow down. Eventually, he’s forced to stop working because it’s just not safe or practical anymore. <br>
-Behind the scenes, EarnShield is already tracking things: <br>
+Ramesh starts his day like any other, logging into Blinkit to begin deliveries. 
+
+Before heading out, he checks EarnShield and notices a high-risk alert for heavy rainfall. 
+
+He quickly subscribes to the ₹60 weekly plan and starts working. 
+
+By afternoon, the rain gets worse — streets are flooded, and orders slow down. Eventually, he’s forced to stop working because it’s just not safe or practical anymore. 
+
+Behind the scenes, EarnShield is already tracking things: 
+
 Rainfall has crossed the danger threshold. Ramesh is in the affected area. His deliveries have dropped sharply. <br>
 Within moments, the system processes everything.  
 
