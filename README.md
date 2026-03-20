@@ -25,10 +25,7 @@ Delivery workers rely entirely on daily orders for their income. However, multip
 <br>
 🌫️ Poor AQI discourages outdoor activity and affects health
 <br>
-🏪 Store closures or strikes halt operations completely
-<br>
-🚦 Traffic congestion increases delivery time and reduces order completion
-<br>
+
 📱 Platform or app downtime stops orders entirely
 
 **Impact:**
@@ -145,20 +142,6 @@ Ramesh is online but unable to work
 
 No need to complain or report — the system already knows.
 
-### 🚦 Scenario 6: Stuck in Traffic
-
-During an evening shift, Ramesh gets stuck in heavy traffic.
-Deliveries take much longer, and he ends up completing far fewer orders.
-
-EarnShield notices:
-
-Traffic congestion spike
-
-Increased delivery times
-
-Drop in completed orders
-
-👉 A partial payout is triggered to balance the loss.
 
 🎯 The Bigger Picture
 
