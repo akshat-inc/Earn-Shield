@@ -329,6 +329,7 @@ Each claim is evaluated on:<br>
 
 ### 🗄️ Database
 - MongoDB (Primary NoSQL database)
+- MySQL (Relational database for structured data & future scalability)
 - Mongoose (Schema modeling & data validation for MongoDB)
 
 ### 🤖 AI / ML
@@ -360,7 +361,7 @@ note : This is the current outline of tech stack. We might add or adjust technol
 - Postman (API testing)
 - Figma (UI/UX Design)
 
-> ⚠️ Note: Core features in Phase 1 are implemented using a minimal stack, while additional technologies are planned for scalability, real-time processing, and production deployment.
+> ⚠️ Note: Core features in Phase 1 are implemented using a rough stack, while additional technologies are planned for scalability, real-time processing, and production deployment.
 
 ---
 
