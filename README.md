@@ -25,7 +25,6 @@ Delivery workers rely entirely on daily orders for their income. However, multip
 <br>
 🌫️ Poor AQI discourages outdoor activity and affects health
 <br>
-
 📱 Platform or app downtime stops orders entirely
 
 **Impact:**
